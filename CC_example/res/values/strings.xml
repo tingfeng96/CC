@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CC_example</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="myinfo">我的信息</string>
+    <string name="myimage">头像</string>
+    <string name="name">网名</string>
+    <string name="school">学校</string>
+    <string name="mail">邮箱</string>
+    <string name="password">密码</string>
+    <string name="code">二维码</string>
+    <string name="upload">上传量/下载量</string>
+    
+    <string name="course">我的课程</string>
+    <string name="share">我的分享</string>
+    <string name="resource">我的资源</string>
+    <string name="setting">设置</string>
+    <string name="help">帮助中心</string>
+    <string name="menu">菜单</string>
+    
+    <string name="myshare">我的分享</string>
+    <string name="history">历史记录</string>
+   
+        <string name="edit_title">课程信息</string> 
+    <string name="course_name">课程名称：</string>
+    <string name="course_address">教室地点：</string>
+    <string name="course_teacher">老师姓名：</string>  
+    <string name="course_amount">上课节数：</string> 
+    <string name="course_week">上课周数：</string> 
+    <string name="course_time">上课时间：</string> 
+    <string name="input_course_name">请输入课程名称</string>
+    <string name="input_course_address">请输入教室地点</string>
+    <string name="input_course_teacher">请输入老师姓名</string>  
+    <string name="input_course_week">总周数或单双周</string> 
+    <string name="input_course_jieshu">总节数不超过4</string>    
+    <string name="to">至</string>     
+    <string name="jieshulimit">1 2 3 4</string> 
+    
+    
+     <string name="first">欢迎使用本软件，本软件为科研类，仍有些许Bug，使用前请自习阅读使用手册！</string>
+    <string name="second">软件使用流程：
+        1、请首先注册登陆
+        2、请筛选自己的课程
+        </string>
+    <string name="third">开始软院课程之路</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<sse.ustc.cc.utils.SlidingMenu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:cc="http://schemas.android.com/apk/res/sse.ustc.cc_example"
+    android:id="@+id/id_menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_frame_background"
+    android:scrollbars="none"
+    cc:rightPadding="100dp" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal" >
+
+        <include layout="@layout/view_main_layout_menu" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+
+            <include layout="@layout/view_schedule_tab" />
+        </LinearLayout>
+    </LinearLayout>
+
+</sse.ustc.cc.utils.SlidingMenu>
